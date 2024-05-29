@@ -1,6 +1,3 @@
-Here's a detailed and beautifully structured README file for your freelancing project:
-
----
 
 # Customer Workload Management Website
 
